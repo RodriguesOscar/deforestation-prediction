@@ -1,0 +1,977 @@
+NM_MUN,year,deforestation_count,target
+Alvarães,2008.0,97,1
+Alvarães,2009.0,21,1
+Alvarães,2010.0,55,1
+Alvarães,2011.0,25,1
+Alvarães,2012.0,5,1
+Alvarães,2013.0,10,1
+Alvarães,2014.0,64,1
+Alvarães,2015.0,7,1
+Alvarães,2016.0,34,1
+Alvarães,2017.0,61,1
+Alvarães,2018.0,54,1
+Alvarães,2019.0,28,1
+Alvarães,2020.0,58,1
+Alvarães,2021.0,76,1
+Alvarães,2022.0,20,1
+Alvarães,2023.0,67,1
+Amaturá,2008.0,1,1
+Amaturá,2009.0,9,1
+Amaturá,2010.0,10,1
+Amaturá,2011.0,7,1
+Amaturá,2012.0,2,1
+Amaturá,2015.0,23,1
+Amaturá,2016.0,3,1
+Amaturá,2017.0,7,1
+Amaturá,2018.0,5,1
+Amaturá,2020.0,2,1
+Amaturá,2021.0,7,1
+Amaturá,2022.0,1,1
+Amaturá,2023.0,16,1
+Anamã,2008.0,1,1
+Anamã,2009.0,13,1
+Anamã,2010.0,21,1
+Anamã,2011.0,11,1
+Anamã,2012.0,9,1
+Anamã,2013.0,7,1
+Anamã,2014.0,8,1
+Anamã,2015.0,9,1
+Anamã,2017.0,12,1
+Anamã,2018.0,3,1
+Anamã,2019.0,4,1
+Anamã,2020.0,9,1
+Anamã,2021.0,23,1
+Anamã,2022.0,3,1
+Anamã,2023.0,18,1
+Anori,2008.0,9,1
+Anori,2009.0,7,1
+Anori,2010.0,7,1
+Anori,2011.0,9,1
+Anori,2012.0,8,1
+Anori,2013.0,8,1
+Anori,2014.0,9,1
+Anori,2015.0,6,1
+Anori,2016.0,6,1
+Anori,2017.0,3,1
+Anori,2018.0,1,1
+Anori,2020.0,4,1
+Anori,2021.0,6,1
+Anori,2022.0,8,1
+Anori,2023.0,3,1
+Apuí,2008.0,310,1
+Apuí,2009.0,346,1
+Apuí,2010.0,235,1
+Apuí,2011.0,216,1
+Apuí,2012.0,333,1
+Apuí,2013.0,476,1
+Apuí,2014.0,315,1
+Apuí,2015.0,362,1
+Apuí,2016.0,649,1
+Apuí,2017.0,524,1
+Apuí,2018.0,499,1
+Apuí,2019.0,549,1
+Apuí,2020.0,578,1
+Apuí,2021.0,638,1
+Apuí,2022.0,984,1
+Apuí,2023.0,547,1
+Atalaia do Norte,2008.0,13,1
+Atalaia do Norte,2009.0,17,1
+Atalaia do Norte,2010.0,21,1
+Atalaia do Norte,2011.0,20,1
+Atalaia do Norte,2012.0,15,1
+Atalaia do Norte,2013.0,13,1
+Atalaia do Norte,2014.0,3,1
+Atalaia do Norte,2015.0,1,1
+Atalaia do Norte,2016.0,13,1
+Atalaia do Norte,2017.0,20,1
+Atalaia do Norte,2018.0,9,1
+Atalaia do Norte,2019.0,26,1
+Atalaia do Norte,2020.0,10,1
+Atalaia do Norte,2021.0,18,1
+Atalaia do Norte,2022.0,43,1
+Atalaia do Norte,2023.0,27,1
+Autazes,2008.0,329,1
+Autazes,2009.0,106,1
+Autazes,2010.0,51,1
+Autazes,2011.0,191,1
+Autazes,2012.0,128,1
+Autazes,2013.0,86,1
+Autazes,2014.0,124,1
+Autazes,2015.0,474,1
+Autazes,2016.0,56,1
+Autazes,2017.0,324,1
+Autazes,2018.0,133,1
+Autazes,2019.0,230,1
+Autazes,2020.0,193,1
+Autazes,2021.0,296,1
+Autazes,2022.0,347,1
+Autazes,2023.0,212,1
+Barcelos,2008.0,15,1
+Barcelos,2009.0,6,1
+Barcelos,2010.0,25,1
+Barcelos,2011.0,19,1
+Barcelos,2012.0,15,1
+Barcelos,2013.0,13,1
+Barcelos,2014.0,22,1
+Barcelos,2015.0,4,1
+Barcelos,2016.0,18,1
+Barcelos,2017.0,16,1
+Barcelos,2018.0,24,1
+Barcelos,2019.0,99,1
+Barcelos,2020.0,12,1
+Barcelos,2021.0,14,1
+Barcelos,2022.0,11,1
+Barcelos,2023.0,22,1
+Barreirinha,2008.0,62,1
+Barreirinha,2009.0,30,1
+Barreirinha,2010.0,119,1
+Barreirinha,2011.0,64,1
+Barreirinha,2012.0,29,1
+Barreirinha,2013.0,39,1
+Barreirinha,2014.0,77,1
+Barreirinha,2015.0,172,1
+Barreirinha,2016.0,21,1
+Barreirinha,2017.0,39,1
+Barreirinha,2018.0,18,1
+Barreirinha,2019.0,70,1
+Barreirinha,2020.0,18,1
+Barreirinha,2021.0,37,1
+Barreirinha,2022.0,120,1
+Barreirinha,2023.0,8,1
+Benjamin Constant,2008.0,7,1
+Benjamin Constant,2009.0,8,1
+Benjamin Constant,2010.0,5,1
+Benjamin Constant,2011.0,13,1
+Benjamin Constant,2012.0,3,1
+Benjamin Constant,2013.0,16,1
+Benjamin Constant,2014.0,8,1
+Benjamin Constant,2015.0,23,1
+Benjamin Constant,2016.0,5,1
+Benjamin Constant,2017.0,15,1
+Benjamin Constant,2018.0,4,1
+Benjamin Constant,2019.0,8,1
+Benjamin Constant,2020.0,1,1
+Benjamin Constant,2021.0,20,1
+Benjamin Constant,2022.0,20,1
+Benjamin Constant,2023.0,11,1
+Beruri,2008.0,26,1
+Beruri,2009.0,20,1
+Beruri,2010.0,46,1
+Beruri,2011.0,27,1
+Beruri,2012.0,11,1
+Beruri,2013.0,30,1
+Beruri,2014.0,25,1
+Beruri,2015.0,33,1
+Beruri,2016.0,24,1
+Beruri,2017.0,15,1
+Beruri,2018.0,20,1
+Beruri,2019.0,24,1
+Beruri,2020.0,30,1
+Beruri,2021.0,58,1
+Beruri,2022.0,82,1
+Beruri,2023.0,79,1
+Boa Vista do Ramos,2008.0,3,1
+Boa Vista do Ramos,2009.0,2,1
+Boa Vista do Ramos,2010.0,33,1
+Boa Vista do Ramos,2011.0,19,1
+Boa Vista do Ramos,2012.0,4,1
+Boa Vista do Ramos,2013.0,9,1
+Boa Vista do Ramos,2014.0,20,1
+Boa Vista do Ramos,2015.0,12,1
+Boa Vista do Ramos,2016.0,6,1
+Boa Vista do Ramos,2017.0,13,1
+Boa Vista do Ramos,2018.0,6,1
+Boa Vista do Ramos,2019.0,15,1
+Boa Vista do Ramos,2020.0,6,1
+Boa Vista do Ramos,2021.0,8,1
+Boa Vista do Ramos,2022.0,82,1
+Boa Vista do Ramos,2023.0,9,1
+Boca do Acre,2008.0,276,1
+Boca do Acre,2009.0,212,1
+Boca do Acre,2010.0,397,1
+Boca do Acre,2011.0,432,1
+Boca do Acre,2012.0,378,1
+Boca do Acre,2013.0,295,1
+Boca do Acre,2014.0,533,1
+Boca do Acre,2015.0,354,1
+Boca do Acre,2016.0,718,1
+Boca do Acre,2017.0,462,1
+Boca do Acre,2018.0,704,1
+Boca do Acre,2019.0,551,1
+Boca do Acre,2020.0,663,1
+Boca do Acre,2021.0,863,1
+Boca do Acre,2022.0,1191,1
+Boca do Acre,2023.0,878,1
+Borba,2008.0,78,1
+Borba,2009.0,27,1
+Borba,2010.0,61,1
+Borba,2011.0,84,1
+Borba,2012.0,22,1
+Borba,2013.0,24,1
+Borba,2014.0,27,1
+Borba,2015.0,91,1
+Borba,2016.0,16,1
+Borba,2017.0,68,1
+Borba,2018.0,38,1
+Borba,2019.0,68,1
+Borba,2020.0,49,1
+Borba,2021.0,90,1
+Borba,2022.0,125,1
+Borba,2023.0,117,1
+Caapiranga,2008.0,2,1
+Caapiranga,2009.0,23,1
+Caapiranga,2010.0,43,1
+Caapiranga,2011.0,12,1
+Caapiranga,2012.0,5,1
+Caapiranga,2013.0,5,1
+Caapiranga,2014.0,15,1
+Caapiranga,2015.0,41,1
+Caapiranga,2016.0,9,1
+Caapiranga,2017.0,13,1
+Caapiranga,2018.0,11,1
+Caapiranga,2019.0,11,1
+Caapiranga,2020.0,28,1
+Caapiranga,2021.0,23,1
+Caapiranga,2022.0,12,1
+Caapiranga,2023.0,22,1
+Canutama,2008.0,250,1
+Canutama,2009.0,98,1
+Canutama,2010.0,81,1
+Canutama,2011.0,219,1
+Canutama,2012.0,162,1
+Canutama,2013.0,195,1
+Canutama,2014.0,98,1
+Canutama,2015.0,78,1
+Canutama,2016.0,244,1
+Canutama,2017.0,155,1
+Canutama,2018.0,261,1
+Canutama,2019.0,247,1
+Canutama,2020.0,210,1
+Canutama,2021.0,370,1
+Canutama,2022.0,427,1
+Canutama,2023.0,418,1
+Carauari,2008.0,22,1
+Carauari,2009.0,9,1
+Carauari,2010.0,17,1
+Carauari,2011.0,5,1
+Carauari,2012.0,7,1
+Carauari,2013.0,12,1
+Carauari,2014.0,14,1
+Carauari,2015.0,4,1
+Carauari,2016.0,14,1
+Carauari,2017.0,6,1
+Carauari,2018.0,19,1
+Carauari,2019.0,8,1
+Carauari,2020.0,16,1
+Carauari,2021.0,11,1
+Carauari,2022.0,70,1
+Carauari,2023.0,35,1
+Careiro,2008.0,62,1
+Careiro,2009.0,53,1
+Careiro,2010.0,114,1
+Careiro,2011.0,51,1
+Careiro,2012.0,13,1
+Careiro,2013.0,40,1
+Careiro,2014.0,8,1
+Careiro,2015.0,97,1
+Careiro,2016.0,18,1
+Careiro,2017.0,25,1
+Careiro,2018.0,11,1
+Careiro,2019.0,28,1
+Careiro,2020.0,35,1
+Careiro,2021.0,71,1
+Careiro,2022.0,44,1
+Careiro,2023.0,92,1
+Careiro da Várzea,2008.0,91,1
+Careiro da Várzea,2009.0,46,1
+Careiro da Várzea,2010.0,131,1
+Careiro da Várzea,2011.0,93,1
+Careiro da Várzea,2012.0,29,1
+Careiro da Várzea,2013.0,26,1
+Careiro da Várzea,2014.0,33,1
+Careiro da Várzea,2015.0,92,1
+Careiro da Várzea,2016.0,81,1
+Careiro da Várzea,2017.0,96,1
+Careiro da Várzea,2018.0,50,1
+Careiro da Várzea,2019.0,113,1
+Careiro da Várzea,2020.0,60,1
+Careiro da Várzea,2021.0,107,1
+Careiro da Várzea,2022.0,179,1
+Careiro da Várzea,2023.0,56,1
+Coari,2008.0,30,1
+Coari,2009.0,9,1
+Coari,2010.0,61,1
+Coari,2011.0,44,1
+Coari,2012.0,14,1
+Coari,2013.0,53,1
+Coari,2014.0,39,1
+Coari,2015.0,14,1
+Coari,2016.0,35,1
+Coari,2017.0,29,1
+Coari,2018.0,26,1
+Coari,2019.0,38,1
+Coari,2020.0,52,1
+Coari,2021.0,54,1
+Coari,2022.0,53,1
+Coari,2023.0,120,1
+Codajás,2008.0,11,1
+Codajás,2009.0,14,1
+Codajás,2010.0,12,1
+Codajás,2011.0,11,1
+Codajás,2012.0,5,1
+Codajás,2013.0,16,1
+Codajás,2014.0,26,1
+Codajás,2015.0,14,1
+Codajás,2016.0,20,1
+Codajás,2017.0,15,1
+Codajás,2018.0,17,1
+Codajás,2019.0,21,1
+Codajás,2020.0,13,1
+Codajás,2021.0,15,1
+Codajás,2022.0,39,1
+Codajás,2023.0,41,1
+Eirunepé,2008.0,29,1
+Eirunepé,2009.0,20,1
+Eirunepé,2010.0,51,1
+Eirunepé,2011.0,26,1
+Eirunepé,2012.0,12,1
+Eirunepé,2013.0,18,1
+Eirunepé,2014.0,41,1
+Eirunepé,2015.0,1,1
+Eirunepé,2016.0,20,1
+Eirunepé,2017.0,32,1
+Eirunepé,2018.0,36,1
+Eirunepé,2019.0,25,1
+Eirunepé,2020.0,30,1
+Eirunepé,2021.0,65,1
+Eirunepé,2022.0,74,1
+Eirunepé,2023.0,48,1
+Envira,2008.0,60,1
+Envira,2009.0,54,1
+Envira,2010.0,92,1
+Envira,2011.0,67,1
+Envira,2012.0,52,1
+Envira,2013.0,53,1
+Envira,2014.0,74,1
+Envira,2015.0,44,1
+Envira,2016.0,43,1
+Envira,2017.0,42,1
+Envira,2018.0,96,1
+Envira,2019.0,82,1
+Envira,2020.0,81,1
+Envira,2021.0,113,1
+Envira,2022.0,183,1
+Envira,2023.0,86,1
+Fonte Boa,2008.0,17,1
+Fonte Boa,2009.0,10,1
+Fonte Boa,2010.0,23,1
+Fonte Boa,2011.0,12,1
+Fonte Boa,2012.0,2,1
+Fonte Boa,2013.0,2,1
+Fonte Boa,2014.0,18,1
+Fonte Boa,2015.0,15,1
+Fonte Boa,2016.0,39,1
+Fonte Boa,2017.0,4,1
+Fonte Boa,2018.0,2,1
+Fonte Boa,2019.0,7,1
+Fonte Boa,2021.0,7,1
+Fonte Boa,2022.0,9,1
+Fonte Boa,2023.0,7,1
+Guajará,2008.0,41,1
+Guajará,2009.0,23,1
+Guajará,2010.0,75,1
+Guajará,2011.0,66,1
+Guajará,2012.0,45,1
+Guajará,2013.0,42,1
+Guajará,2014.0,13,1
+Guajará,2015.0,40,1
+Guajará,2016.0,58,1
+Guajará,2017.0,53,1
+Guajará,2018.0,108,1
+Guajará,2019.0,147,1
+Guajará,2020.0,164,1
+Guajará,2021.0,182,1
+Guajará,2022.0,425,1
+Guajará,2023.0,176,1
+Humaitá,2008.0,125,1
+Humaitá,2009.0,47,1
+Humaitá,2010.0,65,1
+Humaitá,2011.0,64,1
+Humaitá,2012.0,65,1
+Humaitá,2013.0,74,1
+Humaitá,2014.0,64,1
+Humaitá,2015.0,75,1
+Humaitá,2016.0,95,1
+Humaitá,2017.0,168,1
+Humaitá,2018.0,226,1
+Humaitá,2019.0,271,1
+Humaitá,2020.0,271,1
+Humaitá,2021.0,374,1
+Humaitá,2022.0,458,1
+Humaitá,2023.0,410,1
+Ipixuna,2008.0,39,1
+Ipixuna,2009.0,9,1
+Ipixuna,2010.0,54,1
+Ipixuna,2011.0,29,1
+Ipixuna,2012.0,51,1
+Ipixuna,2013.0,59,1
+Ipixuna,2014.0,12,1
+Ipixuna,2015.0,29,1
+Ipixuna,2016.0,28,1
+Ipixuna,2017.0,24,1
+Ipixuna,2018.0,47,1
+Ipixuna,2019.0,55,1
+Ipixuna,2020.0,63,1
+Ipixuna,2021.0,81,1
+Ipixuna,2022.0,200,1
+Ipixuna,2023.0,95,1
+Iranduba,2008.0,20,1
+Iranduba,2009.0,77,1
+Iranduba,2010.0,67,1
+Iranduba,2011.0,42,1
+Iranduba,2012.0,17,1
+Iranduba,2013.0,35,1
+Iranduba,2014.0,38,1
+Iranduba,2015.0,29,1
+Iranduba,2016.0,20,1
+Iranduba,2017.0,19,1
+Iranduba,2018.0,15,1
+Iranduba,2019.0,3,1
+Iranduba,2020.0,43,1
+Iranduba,2021.0,9,1
+Iranduba,2022.0,7,1
+Iranduba,2023.0,20,1
+Itacoatiara,2008.0,251,1
+Itacoatiara,2009.0,53,1
+Itacoatiara,2010.0,162,1
+Itacoatiara,2011.0,148,1
+Itacoatiara,2012.0,58,1
+Itacoatiara,2013.0,43,1
+Itacoatiara,2014.0,80,1
+Itacoatiara,2015.0,86,1
+Itacoatiara,2016.0,97,1
+Itacoatiara,2017.0,110,1
+Itacoatiara,2018.0,58,1
+Itacoatiara,2019.0,202,1
+Itacoatiara,2020.0,87,1
+Itacoatiara,2021.0,131,1
+Itacoatiara,2022.0,220,1
+Itacoatiara,2023.0,122,1
+Itamarati,2008.0,19,1
+Itamarati,2009.0,10,1
+Itamarati,2010.0,37,1
+Itamarati,2011.0,16,1
+Itamarati,2012.0,13,1
+Itamarati,2013.0,18,1
+Itamarati,2014.0,28,1
+Itamarati,2015.0,8,1
+Itamarati,2016.0,5,1
+Itamarati,2017.0,6,1
+Itamarati,2018.0,9,1
+Itamarati,2019.0,7,1
+Itamarati,2020.0,13,1
+Itamarati,2021.0,13,1
+Itamarati,2022.0,55,1
+Itamarati,2023.0,32,1
+Itapiranga,2008.0,13,1
+Itapiranga,2009.0,3,1
+Itapiranga,2010.0,13,1
+Itapiranga,2011.0,12,1
+Itapiranga,2012.0,4,1
+Itapiranga,2013.0,16,1
+Itapiranga,2014.0,11,1
+Itapiranga,2015.0,12,1
+Itapiranga,2017.0,23,1
+Itapiranga,2018.0,3,1
+Itapiranga,2019.0,11,1
+Itapiranga,2020.0,3,1
+Itapiranga,2021.0,15,1
+Itapiranga,2022.0,14,1
+Itapiranga,2023.0,7,1
+Japurá,2008.0,15,1
+Japurá,2009.0,6,1
+Japurá,2010.0,25,1
+Japurá,2011.0,11,1
+Japurá,2012.0,4,1
+Japurá,2013.0,2,1
+Japurá,2014.0,9,1
+Japurá,2016.0,10,1
+Japurá,2017.0,22,1
+Japurá,2018.0,19,1
+Japurá,2019.0,6,1
+Japurá,2020.0,19,1
+Japurá,2021.0,62,1
+Japurá,2022.0,173,1
+Japurá,2023.0,395,1
+Juruá,2008.0,27,1
+Juruá,2009.0,11,1
+Juruá,2010.0,34,1
+Juruá,2011.0,6,1
+Juruá,2012.0,5,1
+Juruá,2013.0,5,1
+Juruá,2014.0,33,1
+Juruá,2015.0,10,1
+Juruá,2016.0,15,1
+Juruá,2017.0,8,1
+Juruá,2018.0,16,1
+Juruá,2019.0,4,1
+Juruá,2020.0,12,1
+Juruá,2021.0,16,1
+Juruá,2022.0,13,1
+Juruá,2023.0,29,1
+Jutaí,2008.0,39,1
+Jutaí,2009.0,10,1
+Jutaí,2010.0,48,1
+Jutaí,2011.0,32,1
+Jutaí,2012.0,7,1
+Jutaí,2013.0,15,1
+Jutaí,2014.0,30,1
+Jutaí,2015.0,13,1
+Jutaí,2016.0,16,1
+Jutaí,2017.0,47,1
+Jutaí,2018.0,14,1
+Jutaí,2019.0,113,1
+Jutaí,2020.0,97,1
+Jutaí,2021.0,14,1
+Jutaí,2022.0,334,1
+Jutaí,2023.0,84,1
+Lábrea,2008.0,269,1
+Lábrea,2009.0,250,1
+Lábrea,2010.0,235,1
+Lábrea,2011.0,416,1
+Lábrea,2012.0,313,1
+Lábrea,2013.0,558,1
+Lábrea,2014.0,386,1
+Lábrea,2015.0,636,1
+Lábrea,2016.0,1030,1
+Lábrea,2017.0,490,1
+Lábrea,2018.0,633,1
+Lábrea,2019.0,628,1
+Lábrea,2020.0,686,1
+Lábrea,2021.0,814,1
+Lábrea,2022.0,1197,1
+Lábrea,2023.0,704,1
+Manacapuru,2008.0,20,1
+Manacapuru,2009.0,151,1
+Manacapuru,2010.0,116,1
+Manacapuru,2011.0,93,1
+Manacapuru,2012.0,17,1
+Manacapuru,2013.0,24,1
+Manacapuru,2014.0,51,1
+Manacapuru,2015.0,108,1
+Manacapuru,2016.0,48,1
+Manacapuru,2017.0,28,1
+Manacapuru,2018.0,24,1
+Manacapuru,2019.0,45,1
+Manacapuru,2020.0,159,1
+Manacapuru,2021.0,69,1
+Manacapuru,2022.0,17,1
+Manacapuru,2023.0,120,1
+Manaquiri,2008.0,6,1
+Manaquiri,2009.0,23,1
+Manaquiri,2010.0,21,1
+Manaquiri,2011.0,21,1
+Manaquiri,2012.0,1,1
+Manaquiri,2013.0,6,1
+Manaquiri,2014.0,1,1
+Manaquiri,2015.0,50,1
+Manaquiri,2016.0,9,1
+Manaquiri,2017.0,11,1
+Manaquiri,2018.0,6,1
+Manaquiri,2019.0,13,1
+Manaquiri,2020.0,23,1
+Manaquiri,2021.0,16,1
+Manaquiri,2022.0,6,1
+Manaquiri,2023.0,45,1
+Manaus,2008.0,28,1
+Manaus,2009.0,37,1
+Manaus,2010.0,104,1
+Manaus,2011.0,26,1
+Manaus,2012.0,53,1
+Manaus,2013.0,30,1
+Manaus,2014.0,27,1
+Manaus,2015.0,19,1
+Manaus,2016.0,13,1
+Manaus,2017.0,24,1
+Manaus,2018.0,13,1
+Manaus,2019.0,57,1
+Manaus,2020.0,95,1
+Manaus,2021.0,50,1
+Manaus,2022.0,30,1
+Manaus,2023.0,44,1
+Manicoré,2008.0,189,1
+Manicoré,2009.0,169,1
+Manicoré,2010.0,346,1
+Manicoré,2011.0,248,1
+Manicoré,2012.0,226,1
+Manicoré,2013.0,195,1
+Manicoré,2014.0,146,1
+Manicoré,2015.0,419,1
+Manicoré,2016.0,345,1
+Manicoré,2017.0,262,1
+Manicoré,2018.0,222,1
+Manicoré,2019.0,256,1
+Manicoré,2020.0,292,1
+Manicoré,2021.0,347,1
+Manicoré,2022.0,497,1
+Manicoré,2023.0,246,1
+Maraã,2008.0,28,1
+Maraã,2009.0,7,1
+Maraã,2010.0,39,1
+Maraã,2011.0,9,1
+Maraã,2012.0,8,1
+Maraã,2013.0,18,1
+Maraã,2014.0,30,1
+Maraã,2015.0,4,1
+Maraã,2016.0,16,1
+Maraã,2017.0,27,1
+Maraã,2018.0,27,1
+Maraã,2019.0,13,1
+Maraã,2020.0,23,1
+Maraã,2021.0,20,1
+Maraã,2022.0,9,1
+Maraã,2023.0,21,1
+Maués,2008.0,80,1
+Maués,2009.0,41,1
+Maués,2010.0,110,1
+Maués,2011.0,102,1
+Maués,2012.0,57,1
+Maués,2013.0,88,1
+Maués,2014.0,83,1
+Maués,2015.0,51,1
+Maués,2016.0,96,1
+Maués,2017.0,93,1
+Maués,2018.0,56,1
+Maués,2019.0,92,1
+Maués,2020.0,121,1
+Maués,2021.0,140,1
+Maués,2022.0,332,1
+Maués,2023.0,151,1
+Nhamundá,2008.0,9,1
+Nhamundá,2009.0,48,1
+Nhamundá,2010.0,128,1
+Nhamundá,2011.0,47,1
+Nhamundá,2012.0,21,1
+Nhamundá,2013.0,31,1
+Nhamundá,2014.0,34,1
+Nhamundá,2015.0,165,1
+Nhamundá,2016.0,21,1
+Nhamundá,2017.0,44,1
+Nhamundá,2018.0,66,1
+Nhamundá,2019.0,34,1
+Nhamundá,2020.0,46,1
+Nhamundá,2021.0,43,1
+Nhamundá,2022.0,194,1
+Nhamundá,2023.0,64,1
+Nova Olinda do Norte,2008.0,60,1
+Nova Olinda do Norte,2009.0,13,1
+Nova Olinda do Norte,2010.0,27,1
+Nova Olinda do Norte,2011.0,41,1
+Nova Olinda do Norte,2012.0,22,1
+Nova Olinda do Norte,2013.0,9,1
+Nova Olinda do Norte,2014.0,31,1
+Nova Olinda do Norte,2015.0,174,1
+Nova Olinda do Norte,2016.0,34,1
+Nova Olinda do Norte,2017.0,52,1
+Nova Olinda do Norte,2018.0,22,1
+Nova Olinda do Norte,2019.0,52,1
+Nova Olinda do Norte,2020.0,58,1
+Nova Olinda do Norte,2021.0,57,1
+Nova Olinda do Norte,2022.0,124,1
+Nova Olinda do Norte,2023.0,52,1
+Novo Airão,2008.0,12,1
+Novo Airão,2009.0,20,1
+Novo Airão,2010.0,21,1
+Novo Airão,2011.0,11,1
+Novo Airão,2012.0,6,1
+Novo Airão,2013.0,13,1
+Novo Airão,2014.0,14,1
+Novo Airão,2015.0,13,1
+Novo Airão,2016.0,10,1
+Novo Airão,2017.0,21,1
+Novo Airão,2018.0,8,1
+Novo Airão,2019.0,29,1
+Novo Airão,2020.0,14,1
+Novo Airão,2021.0,15,1
+Novo Airão,2022.0,13,1
+Novo Airão,2023.0,15,1
+Novo Aripuanã,2008.0,156,1
+Novo Aripuanã,2009.0,107,1
+Novo Aripuanã,2010.0,131,1
+Novo Aripuanã,2011.0,124,1
+Novo Aripuanã,2012.0,98,1
+Novo Aripuanã,2013.0,167,1
+Novo Aripuanã,2014.0,125,1
+Novo Aripuanã,2015.0,156,1
+Novo Aripuanã,2016.0,234,1
+Novo Aripuanã,2017.0,207,1
+Novo Aripuanã,2018.0,229,1
+Novo Aripuanã,2019.0,291,1
+Novo Aripuanã,2020.0,268,1
+Novo Aripuanã,2021.0,396,1
+Novo Aripuanã,2022.0,485,1
+Novo Aripuanã,2023.0,343,1
+Parintins,2008.0,47,1
+Parintins,2009.0,58,1
+Parintins,2010.0,72,1
+Parintins,2011.0,58,1
+Parintins,2012.0,18,1
+Parintins,2013.0,45,1
+Parintins,2014.0,73,1
+Parintins,2015.0,106,1
+Parintins,2016.0,16,1
+Parintins,2017.0,27,1
+Parintins,2018.0,47,1
+Parintins,2019.0,43,1
+Parintins,2020.0,38,1
+Parintins,2021.0,24,1
+Parintins,2022.0,80,1
+Parintins,2023.0,45,1
+Pauini,2008.0,20,1
+Pauini,2009.0,35,1
+Pauini,2010.0,45,1
+Pauini,2011.0,55,1
+Pauini,2012.0,47,1
+Pauini,2013.0,43,1
+Pauini,2014.0,67,1
+Pauini,2015.0,38,1
+Pauini,2016.0,46,1
+Pauini,2017.0,41,1
+Pauini,2018.0,57,1
+Pauini,2019.0,51,1
+Pauini,2020.0,92,1
+Pauini,2021.0,87,1
+Pauini,2022.0,137,1
+Pauini,2023.0,71,1
+Presidente Figueiredo,2008.0,122,1
+Presidente Figueiredo,2009.0,131,1
+Presidente Figueiredo,2010.0,104,1
+Presidente Figueiredo,2011.0,124,1
+Presidente Figueiredo,2012.0,54,1
+Presidente Figueiredo,2013.0,43,1
+Presidente Figueiredo,2014.0,73,1
+Presidente Figueiredo,2015.0,149,1
+Presidente Figueiredo,2016.0,64,1
+Presidente Figueiredo,2017.0,85,1
+Presidente Figueiredo,2018.0,55,1
+Presidente Figueiredo,2019.0,89,1
+Presidente Figueiredo,2020.0,88,1
+Presidente Figueiredo,2021.0,165,1
+Presidente Figueiredo,2022.0,173,1
+Presidente Figueiredo,2023.0,44,1
+Rio Preto da Eva,2008.0,69,1
+Rio Preto da Eva,2009.0,16,1
+Rio Preto da Eva,2010.0,32,1
+Rio Preto da Eva,2011.0,65,1
+Rio Preto da Eva,2012.0,34,1
+Rio Preto da Eva,2013.0,12,1
+Rio Preto da Eva,2014.0,18,1
+Rio Preto da Eva,2015.0,18,1
+Rio Preto da Eva,2016.0,43,1
+Rio Preto da Eva,2017.0,29,1
+Rio Preto da Eva,2018.0,26,1
+Rio Preto da Eva,2019.0,60,1
+Rio Preto da Eva,2020.0,39,1
+Rio Preto da Eva,2021.0,51,1
+Rio Preto da Eva,2022.0,68,1
+Rio Preto da Eva,2023.0,23,1
+Santa Isabel do Rio Negro,2008.0,12,1
+Santa Isabel do Rio Negro,2009.0,1,1
+Santa Isabel do Rio Negro,2010.0,19,1
+Santa Isabel do Rio Negro,2011.0,22,1
+Santa Isabel do Rio Negro,2012.0,19,1
+Santa Isabel do Rio Negro,2013.0,2,1
+Santa Isabel do Rio Negro,2014.0,13,1
+Santa Isabel do Rio Negro,2015.0,8,1
+Santa Isabel do Rio Negro,2016.0,6,1
+Santa Isabel do Rio Negro,2017.0,17,1
+Santa Isabel do Rio Negro,2018.0,8,1
+Santa Isabel do Rio Negro,2019.0,36,1
+Santa Isabel do Rio Negro,2020.0,13,1
+Santa Isabel do Rio Negro,2021.0,21,1
+Santa Isabel do Rio Negro,2022.0,1,1
+Santa Isabel do Rio Negro,2023.0,12,1
+Santo Antônio do Içá,2008.0,12,1
+Santo Antônio do Içá,2009.0,15,1
+Santo Antônio do Içá,2010.0,10,1
+Santo Antônio do Içá,2011.0,21,1
+Santo Antônio do Içá,2012.0,3,1
+Santo Antônio do Içá,2015.0,4,1
+Santo Antônio do Içá,2016.0,19,1
+Santo Antônio do Içá,2017.0,22,1
+Santo Antônio do Içá,2018.0,4,1
+Santo Antônio do Içá,2019.0,13,1
+Santo Antônio do Içá,2020.0,45,1
+Santo Antônio do Içá,2021.0,21,1
+Santo Antônio do Içá,2022.0,36,1
+Santo Antônio do Içá,2023.0,52,1
+Silves,2008.0,26,1
+Silves,2009.0,4,1
+Silves,2010.0,25,1
+Silves,2011.0,21,1
+Silves,2012.0,21,1
+Silves,2013.0,14,1
+Silves,2014.0,13,1
+Silves,2015.0,23,1
+Silves,2016.0,14,1
+Silves,2017.0,32,1
+Silves,2018.0,8,1
+Silves,2019.0,22,1
+Silves,2020.0,19,1
+Silves,2021.0,19,1
+Silves,2022.0,11,1
+Silves,2023.0,12,1
+São Gabriel da Cachoeira,2008.0,88,1
+São Gabriel da Cachoeira,2009.0,52,1
+São Gabriel da Cachoeira,2010.0,99,1
+São Gabriel da Cachoeira,2011.0,60,1
+São Gabriel da Cachoeira,2012.0,36,1
+São Gabriel da Cachoeira,2013.0,20,1
+São Gabriel da Cachoeira,2014.0,25,1
+São Gabriel da Cachoeira,2015.0,28,1
+São Gabriel da Cachoeira,2016.0,27,1
+São Gabriel da Cachoeira,2017.0,17,1
+São Gabriel da Cachoeira,2018.0,43,1
+São Gabriel da Cachoeira,2019.0,156,1
+São Gabriel da Cachoeira,2020.0,127,1
+São Gabriel da Cachoeira,2021.0,97,1
+São Gabriel da Cachoeira,2022.0,58,1
+São Gabriel da Cachoeira,2023.0,103,1
+São Paulo de Olivença,2008.0,3,1
+São Paulo de Olivença,2009.0,9,1
+São Paulo de Olivença,2010.0,11,1
+São Paulo de Olivença,2011.0,9,1
+São Paulo de Olivença,2012.0,6,1
+São Paulo de Olivença,2013.0,3,1
+São Paulo de Olivença,2014.0,9,1
+São Paulo de Olivença,2015.0,3,1
+São Paulo de Olivença,2016.0,15,1
+São Paulo de Olivença,2017.0,12,1
+São Paulo de Olivença,2018.0,3,1
+São Paulo de Olivença,2019.0,54,1
+São Paulo de Olivença,2020.0,71,1
+São Paulo de Olivença,2021.0,16,1
+São Paulo de Olivença,2022.0,10,1
+São Paulo de Olivença,2023.0,27,1
+São Sebastião do Uatumã,2008.0,50,1
+São Sebastião do Uatumã,2009.0,22,1
+São Sebastião do Uatumã,2010.0,44,1
+São Sebastião do Uatumã,2011.0,30,1
+São Sebastião do Uatumã,2012.0,8,1
+São Sebastião do Uatumã,2013.0,47,1
+São Sebastião do Uatumã,2014.0,49,1
+São Sebastião do Uatumã,2015.0,52,1
+São Sebastião do Uatumã,2016.0,9,1
+São Sebastião do Uatumã,2017.0,52,1
+São Sebastião do Uatumã,2018.0,9,1
+São Sebastião do Uatumã,2019.0,39,1
+São Sebastião do Uatumã,2020.0,15,1
+São Sebastião do Uatumã,2021.0,25,1
+São Sebastião do Uatumã,2022.0,58,1
+São Sebastião do Uatumã,2023.0,24,1
+Tabatinga,2008.0,11,1
+Tabatinga,2009.0,13,1
+Tabatinga,2010.0,13,1
+Tabatinga,2011.0,10,1
+Tabatinga,2012.0,9,1
+Tabatinga,2013.0,2,1
+Tabatinga,2014.0,37,1
+Tabatinga,2015.0,3,1
+Tabatinga,2016.0,22,1
+Tabatinga,2017.0,9,1
+Tabatinga,2018.0,3,1
+Tabatinga,2019.0,58,1
+Tabatinga,2020.0,9,1
+Tabatinga,2021.0,40,1
+Tabatinga,2022.0,23,1
+Tabatinga,2023.0,18,1
+Tapauá,2008.0,33,1
+Tapauá,2009.0,8,1
+Tapauá,2010.0,60,1
+Tapauá,2011.0,45,1
+Tapauá,2012.0,8,1
+Tapauá,2013.0,30,1
+Tapauá,2014.0,35,1
+Tapauá,2015.0,4,1
+Tapauá,2016.0,31,1
+Tapauá,2017.0,29,1
+Tapauá,2018.0,77,1
+Tapauá,2019.0,69,1
+Tapauá,2020.0,81,1
+Tapauá,2021.0,130,1
+Tapauá,2022.0,193,1
+Tapauá,2023.0,95,1
+Tefé,2008.0,96,1
+Tefé,2009.0,42,1
+Tefé,2010.0,87,1
+Tefé,2011.0,40,1
+Tefé,2012.0,35,1
+Tefé,2013.0,26,1
+Tefé,2014.0,155,1
+Tefé,2015.0,37,1
+Tefé,2016.0,88,1
+Tefé,2017.0,64,1
+Tefé,2018.0,93,1
+Tefé,2019.0,86,1
+Tefé,2020.0,113,1
+Tefé,2021.0,116,1
+Tefé,2022.0,33,1
+Tefé,2023.0,162,1
+Tonantins,2008.0,2,1
+Tonantins,2009.0,4,1
+Tonantins,2010.0,7,1
+Tonantins,2011.0,12,1
+Tonantins,2012.0,2,1
+Tonantins,2014.0,2,1
+Tonantins,2016.0,5,1
+Tonantins,2017.0,16,1
+Tonantins,2018.0,1,1
+Tonantins,2019.0,2,1
+Tonantins,2020.0,11,1
+Tonantins,2021.0,5,1
+Tonantins,2022.0,1,1
+Tonantins,2023.0,33,1
+Uarini,2008.0,54,1
+Uarini,2009.0,5,1
+Uarini,2010.0,35,1
+Uarini,2011.0,15,1
+Uarini,2012.0,25,1
+Uarini,2013.0,8,1
+Uarini,2014.0,90,1
+Uarini,2015.0,8,1
+Uarini,2016.0,46,1
+Uarini,2017.0,33,1
+Uarini,2018.0,55,1
+Uarini,2019.0,27,1
+Uarini,2020.0,46,1
+Uarini,2021.0,57,1
+Uarini,2022.0,21,1
+Uarini,2023.0,69,1
+Urucará,2008.0,20,1
+Urucará,2009.0,16,1
+Urucará,2010.0,41,1
+Urucará,2011.0,22,1
+Urucará,2012.0,4,1
+Urucará,2013.0,32,1
+Urucará,2014.0,19,1
+Urucará,2015.0,4,1
+Urucará,2016.0,4,1
+Urucará,2017.0,7,1
+Urucará,2018.0,9,1
+Urucará,2019.0,19,1
+Urucará,2020.0,6,1
+Urucará,2021.0,11,1
+Urucará,2022.0,18,1
+Urucará,2023.0,13,1
+Urucurituba,2008.0,7,1
+Urucurituba,2010.0,11,1
+Urucurituba,2011.0,8,1
+Urucurituba,2013.0,8,1
+Urucurituba,2014.0,11,1
+Urucurituba,2015.0,9,1
+Urucurituba,2016.0,1,1
+Urucurituba,2017.0,2,1
+Urucurituba,2019.0,3,1
+Urucurituba,2020.0,1,1
+Urucurituba,2021.0,4,1
+Urucurituba,2022.0,11,1
