@@ -1,22 +1,22 @@
-# [Your Project Title Here]
+# [Amazon Deforestation Forecasting]
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/RodriguesOscar/deforestation-prediction]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+This project focuses on predicting **deforestation increase** in the state of Amazonas, Brazil. Using land cover data from MapBiomas and annual deforestation data from PRODES, the goal is to build a machine learning model that identifies municipalities at higher risk of increased deforestation in the following year. The approach includes a baseline Logistic Regression model followed by a deep learning model with engineered features and custom loss functions to improve prediction accuracy and class separation.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Binary Classification
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Deep Neural Network with Focal Loss  
+- **Evaluation Metric:** F1-Score  
+- **Result:** F1-score of 0.77, ROC-AUC of 0.74, Accuracy of 68%
 
 ## Documentation
 
